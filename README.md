@@ -1,6 +1,6 @@
 # New Tab Chrome Extension
 
-Demo
+Demo video
 
 <img src="Demo.mp4" alt="Demo Video" width="800" height="500"/>
 
@@ -21,7 +21,7 @@ Follow the steps below to install and use the extension on Chrome:
 
 1. **Clone or download the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/kishorgs/New-Tab-Extension.git
    ```
 
 2. **Navigate to Chrome Extensions page**:
@@ -60,10 +60,3 @@ Follow the steps below to install and use the extension on Chrome:
 - Add additional customizations for users to change the background color or greeting message.
 - Enhance the particle effects with more interactivity.
 - Allow users to configure greetings based on personalized preferences.
-
-## Contributing
-
-If you'd like to contribute to this project, feel free to open a pull request or report any issues in the repository.
-```
-
-In this version, the demo video appears at the beginning, right after the title, making it more prominent for users to access immediately.
