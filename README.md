@@ -1,6 +1,6 @@
 # New Tab Chrome Extension
 
-[Download the demo video](Demo.mp4)
+<img src="Demo.gif" alt="Demo Video" width="800" height="500"/>
 
 ## Overview
 
