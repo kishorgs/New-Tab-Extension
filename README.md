@@ -2,7 +2,7 @@
 
 Demo video
 
-<img src="Demo.mp4" alt="Demo Video" width="800" height="500"/>
+<video src="Demo.mp4" alt="Demo Video" width="800" height="500"/>
 
 ## Overview
 
