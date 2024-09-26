@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "New tab extension",
+  "version": "1.0",
+  "description": "This extension shows the designer screen when new tab is opened",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "icons": {
+    "16": "icon.jpg"
+  }
+}
